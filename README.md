@@ -92,7 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/tiameows/)](https://github.com/tiameows/)
 
-##### Your Favourite Tool is not in security-toolkit or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
 
 ![Tiameows's github stats](https://github-readme-stats.vercel.app/api?username=tiameows&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
