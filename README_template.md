@@ -94,23 +94,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 After all steps are completed, run the following command ---> **root@kaliLinux:~** **security-toolkit**
 
-#### Thanks to original Author of the tools used in security-toolkit
 
-<img src ="https://img.shields.io/badge/Important-notice-red" />
-<h4>Please Don't Use for illegal Activity</h4>
 
-### To do 
-- [ ] Fully release tool 
-- [ ] Add Tools for CTF
-- [ ] Want to do automatic 
 
-## Social Media :mailbox_with_no_mail:
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/tiameows/)](https://github.com/tiameows/)
-##### If you favorite tool is not included, or you have any suggestions, please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Tiameows's github stats](https://github-readme-stats.vercel.app/api?username=tiameows&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://www.buymeacoffee.com/Zinzu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
 
-#### Don't forget to share this tool with your friends!
-#### Thank you!!!
